@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
 
       body: Wrap(
         spacing: 13,
-        runSpacing: 20,
+        runSpacing: 40,
         direction: Axis.horizontal,
         alignment: WrapAlignment.start,
 
