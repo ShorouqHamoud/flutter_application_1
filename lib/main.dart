@@ -52,7 +52,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(title: Text("Flutter App")),
 
       body: Wrap(
-        spacing: 10,
+        spacing: 13,
         runSpacing: 20,
         direction: Axis.horizontal,
         alignment: WrapAlignment.start,
